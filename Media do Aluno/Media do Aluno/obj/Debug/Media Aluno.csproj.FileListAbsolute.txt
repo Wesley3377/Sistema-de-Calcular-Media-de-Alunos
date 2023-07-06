@@ -1,0 +1,9 @@
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Consultorio.Form1.resources
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Consultorio.Properties.Resources.resources
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Media Aluno.csproj.GenerateResource.Cache
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+\\Servidor\publico\ALUNOS MARACANAU\Kaicky Wesley Santos Rodrigues\Consultorio\Consultorio\obj\Debug\Media Aluno.csprojResolveAssemblyReference.cache
